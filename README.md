@@ -3,7 +3,10 @@
 
 CAD file - NX 10 Ver. supported
 
-STL file - for 3D printing
+CAD_for_urdf - rearranging parts for convenient urdf making
+
+STL file - for making urdf & included link info.(inertia, mass, com pos.)
+
 
 Tolerance information: add soon
 
